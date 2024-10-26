@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AHMED\\source\\repos\\SignalR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./ChattingDb/True/SqlTable/dbo.Message.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99EB001C-6C97-4E7E-8B46-4C2167912AD5}|SignalR\\SignalR.csproj|c:\\users\\ahmed\\source\\repos\\signalr\\signalr\\models\\chattingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99EB001C-6C97-4E7E-8B46-4C2167912AD5}|SignalR\\SignalR.csproj|solutionrelative:signalr\\models\\chattingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99EB001C-6C97-4E7E-8B46-4C2167912AD5}|SignalR\\SignalR.csproj|c:\\users\\ahmed\\source\\repos\\signalr\\signalr\\wwwroot\\pages\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99EB001C-6C97-4E7E-8B46-4C2167912AD5}|SignalR\\SignalR.csproj|solutionrelative:signalr\\wwwroot\\pages\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99EB001C-6C97-4E7E-8B46-4C2167912AD5}|SignalR\\SignalR.csproj|c:\\users\\ahmed\\source\\repos\\signalr\\signalr\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99EB001C-6C97-4E7E-8B46-4C2167912AD5}|SignalR\\SignalR.csproj|solutionrelative:signalr\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99EB001C-6C97-4E7E-8B46-4C2167912AD5}|SignalR\\SignalR.csproj|c:\\users\\ahmed\\source\\repos\\signalr\\signalr\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99EB001C-6C97-4E7E-8B46-4C2167912AD5}|SignalR\\SignalR.csproj|solutionrelative:signalr\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99EB001C-6C97-4E7E-8B46-4C2167912AD5}|SignalR\\SignalR.csproj|c:\\users\\ahmed\\source\\repos\\signalr\\signalr\\wwwroot\\js\\signalr\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{99EB001C-6C97-4E7E-8B46-4C2167912AD5}|SignalR\\SignalR.csproj|solutionrelative:signalr\\wwwroot\\js\\signalr\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99EB001C-6C97-4E7E-8B46-4C2167912AD5}|SignalR\\SignalR.csproj|c:\\users\\ahmed\\source\\repos\\signalr\\signalr\\wwwroot\\pages\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{99EB001C-6C97-4E7E-8B46-4C2167912AD5}|SignalR\\SignalR.csproj|solutionrelative:signalr\\wwwroot\\pages\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99EB001C-6C97-4E7E-8B46-4C2167912AD5}|SignalR\\SignalR.csproj|c:\\users\\ahmed\\source\\repos\\signalr\\signalr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99EB001C-6C97-4E7E-8B46-4C2167912AD5}|SignalR\\SignalR.csproj|solutionrelative:signalr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Message [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./ChattingDb/True/SqlTable/dbo.Message.sql",
+              "ToolTip": "dbo.Message [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-26T12:21:47.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\AHMED\\source\\repos\\SignalR\\SignalR\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "SignalR\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\AHMED\\source\\repos\\SignalR\\SignalR\\Models\\Message.cs",
+              "RelativeToolTip": "SignalR\\Models\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T12:07:26.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChattingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\AHMED\\source\\repos\\SignalR\\SignalR\\Models\\ChattingDbContext.cs",
+              "RelativeDocumentMoniker": "SignalR\\Models\\ChattingDbContext.cs",
+              "ToolTip": "C:\\Users\\AHMED\\source\\repos\\SignalR\\SignalR\\Models\\ChattingDbContext.cs",
+              "RelativeToolTip": "SignalR\\Models\\ChattingDbContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T12:04:50.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\AHMED\\source\\repos\\SignalR\\SignalR\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "SignalR\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\AHMED\\source\\repos\\SignalR\\SignalR\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "SignalR\\Hubs\\ChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:49:38.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Chat.js",
+              "DocumentMoniker": "C:\\Users\\AHMED\\source\\repos\\SignalR\\SignalR\\wwwroot\\js\\signalr\\Chat.js",
+              "RelativeDocumentMoniker": "SignalR\\wwwroot\\js\\signalr\\Chat.js",
+              "ToolTip": "C:\\Users\\AHMED\\source\\repos\\SignalR\\SignalR\\wwwroot\\js\\signalr\\Chat.js",
+              "RelativeToolTip": "SignalR\\wwwroot\\js\\signalr\\Chat.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-20T17:28:35.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Style.css",
+              "DocumentMoniker": "C:\\Users\\AHMED\\source\\repos\\SignalR\\SignalR\\wwwroot\\Pages\\Style.css",
+              "RelativeDocumentMoniker": "SignalR\\wwwroot\\Pages\\Style.css",
+              "ToolTip": "C:\\Users\\AHMED\\source\\repos\\SignalR\\SignalR\\wwwroot\\Pages\\Style.css",
+              "RelativeToolTip": "SignalR\\wwwroot\\Pages\\Style.css",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-20T17:01:41.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.html",
+              "DocumentMoniker": "C:\\Users\\AHMED\\source\\repos\\SignalR\\SignalR\\wwwroot\\Pages\\Index.html",
+              "RelativeDocumentMoniker": "SignalR\\wwwroot\\Pages\\Index.html",
+              "ToolTip": "C:\\Users\\AHMED\\source\\repos\\SignalR\\SignalR\\wwwroot\\Pages\\Index.html",
+              "RelativeToolTip": "SignalR\\wwwroot\\Pages\\Index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-20T16:42:06.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AHMED\\source\\repos\\SignalR\\SignalR\\Program.cs",
+              "RelativeDocumentMoniker": "SignalR\\Program.cs",
+              "ToolTip": "C:\\Users\\AHMED\\source\\repos\\SignalR\\SignalR\\Program.cs",
+              "RelativeToolTip": "SignalR\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:19:06.332Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
